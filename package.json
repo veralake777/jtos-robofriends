@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://verabutler.github.io/robofriends-gh-pages",
+  "homepage": "http://verabutler.github.io/jtos-robofriends",
   "dependencies": {
     "randomatic": "^3.1.1",
     "react": "^16.5.2",
@@ -18,13 +18,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "clean-source": "rimraf README.md src webroot package.json"
-  },
-  "devDependencies": {
-    "gh-pages": "^1.1.1",
-    "gh-pages-deploy": "^0.5.1"
+    "eject": "react-scripts eject"
   }
 }
