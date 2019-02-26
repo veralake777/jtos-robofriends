@@ -21,6 +21,7 @@ Links are to side studies for this project.
     - Configurator
 9. Parcel
 10. Optimize Performance
+    - /?react_perf --> dev tools performance & record
     - Ciritcal Render Path
     - Optimize Code
     - Minimize Files
