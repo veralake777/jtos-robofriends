@@ -1,4 +1,5 @@
 # Robofriends React Progressive Web App
+Links are to side studies for this project.
 
 ## Skills learned
 1. Build a React App
@@ -15,7 +16,7 @@
 5. Actions and Reducers
 6. Tools for React + Redux
 7. Module Bundlers
-8. Webpack 4
+8. [Webpack](https://github.com/VeraButler/webpack-study)
     - eslintrc
     - Configurator
 9. Parcel
@@ -24,7 +25,7 @@
     - Optimize Code
     - Minimize Files
     - Minimize Delivery
-    - Code Splitting
+    - [Code Splitting](https://github.com/VeraButler/react-code-splitting)
 11. Progressive Web Apps
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).<br >
