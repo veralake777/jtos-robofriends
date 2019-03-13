@@ -25,7 +25,11 @@ Links are to side studies for this project.
     - Optimize Code
     - Minimize Files
     - Minimize Delivery
-    - [Code Splitting](https://github.com/VeraButler/react-code-splitting)
+    - Mini-project - [Code Splitting](https://github.com/VeraButler/react-code-splitting)
+    - [Tree shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
+    - Avoid blocking main thread
+    - Avoid memory leaks - minimize your JS 
+    - Avoid multiple re-rendering
 11. Progressive Web Apps
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).<br >
