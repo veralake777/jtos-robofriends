@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "a13c939951f5977020d23c9d803ed80e",
+    "revision": "49e92d65b2a346d835440f2c5b346fc5",
     "url": "/index.html"
   }
 ];
